@@ -5,3 +5,9 @@ Snack bar responsive
 and I love ghana to understand Frame Layout
 
 ![](https://github.com/BraKoose/iSpacelayoutFundamentalsApp/blob/master/trotrolinear.png)
+
+![](https://github.com/BraKoose/iSpacelayoutFundamentalsApp/blob/master/sunshine%20Ghana.png)
+
+![](https://github.com/BraKoose/iSpacelayoutFundamentalsApp/blob/master/frames2.png)
+
+
